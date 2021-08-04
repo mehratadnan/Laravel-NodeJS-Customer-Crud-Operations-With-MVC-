@@ -13,3 +13,4 @@ Project Description  An application to be written with Laravel should display th
 **Documentation** 
 - To start Laravel server write this command on terminal : php -S localhost:8000 -t public
 - To try requests you can use (customer requests in laravel.postman_collection) file which is will work on postman
+- Please create copy .env.example and paste it to .env name
